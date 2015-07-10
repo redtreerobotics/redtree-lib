@@ -1,0 +1,5 @@
+Scripts in here are helper scripts that may be called by the middleware
+and must reside in a predictable place. 
+
+They must also have the permissions set correctly so that they can be
+executed.
